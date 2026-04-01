@@ -1,4 +1,6 @@
 ### Hi there 👋
+---
+**My Name Is Lee Hyun Seung**
 
 <!--
 **azari603/azari603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
